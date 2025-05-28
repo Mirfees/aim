@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x  3 mirfees mirfees 4096 May 28 05:44 .
+drwxr-x--- 82 mirfees mirfees 4096 May 28 05:50 ..
+drwxrwxr-x  8 mirfees mirfees 4096 May 28 05:44 .git
+-rw-rw-r--  1 mirfees mirfees 1061 May 28 05:44 index.html
+-rw-rw-r--  1 mirfees mirfees    0 May 28 05:44 new-file.file
+-rw-rw-r--  1 mirfees mirfees 2073 May 28 05:44 script.js
+-rw-rw-r--  1 mirfees mirfees 1594 May 28 05:44 style.css
